@@ -1,0 +1,42 @@
+body{
+  background-color: grey;
+}
+
+.card-header{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium';
+  font-size:xx-large;
+margin: 10px;
+
+}
+  
+.card-body{
+  margin: 10px;
+  border: solid thin rgb(38, 107, 107);
+
+}
+
+.card-text{
+  text-align: justify;
+  font-family: 'Arial Narrow';
+  font-size: large;
+  margin: 10px
+}
+
+.card-title{
+  text-align: center;
+  font-family: 'Lucida Sans';
+  font-size: small;
+}
+
+.all{
+  border: dotted purple;
+  width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.specifications{
+  font-family: 'Courier New';
+  text-align: center;
+}
